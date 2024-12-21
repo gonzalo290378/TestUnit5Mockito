@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fbdb0d9-7d7e-49ac-88a3-ba2cf8a09eeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mockito/src/main/java/org/bench/appmockito/ejemplos/Datos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/junit_app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/src/main/java/org/aguzman/junit5app/ejemplos/exceptions/DineroInsuficienteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/src/main/java/org/aguzman/junit5app/ejemplos/models/Banco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/src/main/java/org/aguzman/junit5app/ejemplos/models/Cuenta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/src/main/resources/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/src/main/resources/data2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/src/test/java/org/aguzman/junit5app/ejemplos/models/CuentaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/classes/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/classes/data2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/classes/org/aguzman/junit5app/ejemplos/exceptions/DineroInsuficienteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/classes/org/aguzman/junit5app/ejemplos/models/Banco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/classes/org/aguzman/junit5app/ejemplos/models/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/surefire-reports/TEST-org.aguzman.junit5app.ejemplos.models.CuentaTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/surefire-reports/org.aguzman.junit5app.ejemplos.models.CuentaTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$CuentaOperacionesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$CuentaTestNombreSaldo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$EjemploTimeoutTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$JavaVersionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$PruebasParametrizadasTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$SistemPropertiesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$SistemaOperativoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$VariableAmbienteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/EjemploOrdenarMetodosTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/src/main/java/org/bench/junit5app/ejemplos/models/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/src/main/java/org/bench/junit5app/ejemplos/models/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/src/test/java/org/bench/junit5app/ejemplos/models/CuentaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/src/test/java/org/bench/junit5app/ejemplos/models/CuentaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/classes/org/aguzman/junit5app/ejemplos/exceptions/DineroInsuficienteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/classes/org/aguzman/junit5app/ejemplos/models/Banco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/classes/org/aguzman/junit5app/ejemplos/models/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$CuentaOperacionesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$CuentaTestNombreSaldo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$EjemploTimeoutTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$JavaVersionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$PruebasParametrizadasTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$SistemPropertiesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$SistemaOperativoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest$VariableAmbienteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/CuentaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/aguzman/junit5app/ejemplos/models/EjemploOrdenarMetodosTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$CuentaOperacionesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$CuentaOperacionesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$CuentaTestNombreSaldo.class" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$CuentaTestNombreSaldo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$EjemploTimeoutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$EjemploTimeoutTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$JavaVersionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$JavaVersionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$PruebasParametrizadasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$PruebasParametrizadasTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$SistemPropertiesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$SistemPropertiesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$SistemaOperativoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$SistemaOperativoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$VariableAmbienteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest$VariableAmbienteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/junit5_app/target/test-classes/org/bench/junit5app/ejemplos/models/CuentaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mockito/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/src/main/java/org/aguzman/appmockito/ejemplos/models/Examen.java" beforeDir="false" afterPath="$PROJECT_DIR$/mockito/src/main/java/org/bench/appmockito/ejemplos/models/Examen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/src/main/java/org/aguzman/appmockito/ejemplos/repositories/ExamenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/mockito/src/main/java/org/bench/appmockito/ejemplos/repositories/ExamenRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/src/main/java/org/aguzman/appmockito/ejemplos/repositories/ExamenRepositoryOtro.java" beforeDir="false" afterPath="$PROJECT_DIR$/mockito/src/main/java/org/bench/appmockito/ejemplos/repositories/ExamenRepositoryOtro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/src/main/java/org/aguzman/appmockito/ejemplos/repositories/PreguntaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/mockito/src/main/java/org/bench/appmockito/ejemplos/repositories/PreguntaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/src/main/java/org/aguzman/appmockito/ejemplos/services/ExamenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mockito/src/main/java/org/bench/appmockito/ejemplos/services/ExamenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/src/main/java/org/aguzman/appmockito/ejemplos/services/ExamenServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mockito/src/main/java/org/bench/appmockito/ejemplos/services/ExamenServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/src/test/java/org/aguzman/appmockito/ejemplos/services/Datos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/src/test/java/org/aguzman/appmockito/ejemplos/services/ExamenServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mockito/src/test/java/org/bench/appmockito/ejemplos/services/ExamenServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/target/classes/org/aguzman/appmockito/ejemplos/models/Examen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/target/classes/org/aguzman/appmockito/ejemplos/repositories/ExamenRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/target/classes/org/aguzman/appmockito/ejemplos/repositories/ExamenRepositoryOtro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/target/classes/org/aguzman/appmockito/ejemplos/repositories/PreguntaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/target/classes/org/aguzman/appmockito/ejemplos/services/ExamenService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/target/classes/org/aguzman/appmockito/ejemplos/services/ExamenServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/target/test-classes/org/aguzman/appmockito/ejemplos/services/Datos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockito/target/test-classes/org/aguzman/appmockito/ejemplos/services/ExamenServiceImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_test/src/main/java/org/aguzman/test/springboot/app/Datos.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_test/src/main/java/org/aguzman/test/springboot/app/Datos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_test/src/test/java/org/aguzman/test/springboot/app/SpringbootTestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_test/src/test/java/org/aguzman/test/springboot/app/SpringbootTestApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_test/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_test/src/test/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mockito" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2cyL29FzKdGYA8Q13zlZBbxZHbi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/gonza/OneDrive/Escritorio/Programacion-Verdadero/IntelliJ Idea/JUnit5Mockito",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "bd2d2afd85186af5d8b9f0abcd52fc31",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gonza\OneDrive\Escritorio\Programacion-Verdadero\IntelliJ Idea\JUnit - Mockito (IntelliJ Idea)" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.bench.appmockito.ejemplos" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.bench.appmockito.ejemplos.services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExamenServiceImplSpyTest.testSpy">
+    <configuration name="CuentaTest$CuentaTestNombreSaldo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5_app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bench.junit5app.ejemplos.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bench.junit5app.ejemplos.models.CuentaTest" />
+      <option name="MAIN_CLASS_NAME" value="org.bench.junit5app.ejemplos.models.CuentaTest$CuentaTestNombreSaldo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuentaTest$EjemploTimeoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5_app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bench.junit5app.ejemplos.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bench.junit5app.ejemplos.models.CuentaTest" />
+      <option name="MAIN_CLASS_NAME" value="org.bench.junit5app.ejemplos.models.CuentaTest$EjemploTimeoutTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamenServiceImplSpyTest.testSpy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bench.appmockito.ejemplos.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bench.appmockito.ejemplos.services" />
+      <option name="MAIN_CLASS_NAME" value="org.bench.appmockito.ejemplos.services.ExamenServiceImplSpyTest" />
+      <option name="METHOD_NAME" value="testSpy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamenServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bench.appmockito.ejemplos.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bench.appmockito.ejemplos.services" />
+      <option name="MAIN_CLASS_NAME" value="org.bench.appmockito.ejemplos.services.ExamenServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamenServiceImplTest.testManejoException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bench.appmockito.ejemplos.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bench.appmockito.ejemplos.services" />
+      <option name="MAIN_CLASS_NAME" value="org.bench.appmockito.ejemplos.services.ExamenServiceImplTest" />
+      <option name="METHOD_NAME" value="testManejoException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aguzman.test.springboot.app.SpringbootTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExamenServiceImplSpyTest.testSpy" />
+        <item itemvalue="JUnit.ExamenServiceImplTest.testManejoException" />
+        <item itemvalue="JUnit.ExamenServiceImplTest" />
+        <item itemvalue="JUnit.CuentaTest$EjemploTimeoutTest" />
+        <item itemvalue="JUnit.CuentaTest$CuentaTestNombreSaldo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fbdb0d9-7d7e-49ac-88a3-ba2cf8a09eeb" name="Changes" comment="" />
+      <created>1709078661558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709078661558</updated>
+      <workItem from="1709078662570" duration="1654000" />
+      <workItem from="1709129963414" duration="2676000" />
+      <workItem from="1709132850339" duration="6845000" />
+      <workItem from="1709151394630" duration="3429000" />
+      <workItem from="1709246266489" duration="618000" />
+      <workItem from="1709246890997" duration="2156000" />
+      <workItem from="1709307741152" duration="3104000" />
+      <workItem from="1709498362206" duration="1058000" />
+      <workItem from="1709499983823" duration="604000" />
+      <workItem from="1709500812629" duration="931000" />
+      <workItem from="1709554911425" duration="5051000" />
+      <workItem from="1709639651374" duration="2627000" />
+      <workItem from="1709648053845" duration="1851000" />
+      <workItem from="1709725465735" duration="1985000" />
+      <workItem from="1714168706903" duration="1359000" />
+      <workItem from="1719154703206" duration="2525000" />
+      <workItem from="1719229460039" duration="14089000" />
+      <workItem from="1719308968822" duration="5780000" />
+      <workItem from="1719325481115" duration="8236000" />
+      <workItem from="1719497395458" duration="8924000" />
+      <workItem from="1719573609058" duration="15630000" />
+      <workItem from="1719670904181" duration="2209000" />
+      <workItem from="1719679484387" duration="4212000" />
+      <workItem from="1719683754120" duration="10000" />
+      <workItem from="1720018752668" duration="1164000" />
+      <workItem from="1720086131216" duration="2841000" />
+      <workItem from="1720109423193" duration="6485000" />
+      <workItem from="1720173900438" duration="169000" />
+      <workItem from="1720207074374" duration="20000" />
+      <workItem from="1723825962305" duration="122000" />
+      <workItem from="1723977614344" duration="90000" />
+      <workItem from="1734282560036" duration="15000" />
+      <workItem from="1734282581122" duration="2454000" />
+      <workItem from="1734287805374" duration="181000" />
+      <workItem from="1734287994791" duration="9000" />
+      <workItem from="1734357637370" duration="1279000" />
+      <workItem from="1734448794818" duration="10329000" />
+      <workItem from="1734462308657" duration="4472000" />
+      <workItem from="1734536788739" duration="9584000" />
+      <workItem from="1734554061003" duration="1405000" />
+      <workItem from="1734555547126" duration="1134000" />
+      <workItem from="1734556700459" duration="1336000" />
+      <workItem from="1734560017712" duration="17000" />
+      <workItem from="1734805189305" duration="788000" />
+      <workItem from="1734806267208" duration="71000" />
+      <workItem from="1734806477486" duration="7000" />
+      <workItem from="1734806916774" duration="118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JUnit___Mockito__IntelliJ_Idea_$ExamenServiceImplTest.ic" NAME="ExamenServiceImplTest Coverage Results" MODIFIED="1734540150112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.bench.appmockito.ejemplos.services.*</FILTER>
+    </SUITE>
+  </component>
+</project>
